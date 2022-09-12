@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/MrHawkers_Robot_Friends/static/css/main.ee65cb30.css",
+    "main.js": "/MrHawkers_Robot_Friends/static/js/main.096df99d.js",
+    "static/js/787.a3951cef.chunk.js": "/MrHawkers_Robot_Friends/static/js/787.a3951cef.chunk.js",
+    "index.html": "/MrHawkers_Robot_Friends/index.html",
+    "main.ee65cb30.css.map": "/MrHawkers_Robot_Friends/static/css/main.ee65cb30.css.map",
+    "main.096df99d.js.map": "/MrHawkers_Robot_Friends/static/js/main.096df99d.js.map",
+    "787.a3951cef.chunk.js.map": "/MrHawkers_Robot_Friends/static/js/787.a3951cef.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ee65cb30.css",
+    "static/js/main.096df99d.js"
+  ]
+}
